@@ -1,0 +1,22 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Expo
+.expo/
+.expo-shared/
+web-build/
+
+# React Native
+android/
+ios/
+
+# Backend
+dist/
+build/
+.env
+
+# MacOS / Windows
+.DS_Store
+Thumbs.db
